@@ -4,6 +4,8 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 # Hi there, I'm [Obi1Kenobi](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student, IT news writer from Russia 🇷🇺
-<img src="путь к файлу" alt="альтернативный текст">
+<img src="путь к файлу" alt="— Я сказал тебе правду. Правду... если смотреть на неё с определённой точки зрения.
+— С определенной точки зрения?
+— Люк, ты поймешь... зачастую правда, за которую мы цепляемся... зависит главным образом от нашей точки зрения.">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/username/github-readme-stats)
