@@ -6,3 +6,4 @@
 ### Computer science student, IT news writer from Russia 🇷🇺
 <img src="путь к файлу" alt="альтернативный текст">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/username/github-readme-stats)
